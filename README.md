@@ -11,7 +11,7 @@ NIM : 211402083
 
 # Cara Menjalankan Repository
 
-1). Jalan kan "git clone " untuk mengclone direktori ke lokal
+1). Jalan kan "git clone https://github.com/bill2803/uas_bill_clinton_pemrograman_mobile.git" untuk mengclone direktori ke lokal
 
 2). Masuk kedalam Code Editor (Visual Studio Code, dll)
 
